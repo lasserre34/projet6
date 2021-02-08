@@ -7,3 +7,8 @@ Pour faire fonctionner le projet, vous devez installer node-sass à part.
 ## Development server
 
 Démarrer `ng serve` pour avoir accès au serveur de développement. Rendez-vous sur `http://localhost:4200/`. L'application va se recharger automatiquement si vous modifiez un fichier source.
+
+#Base de donnée MOngoDB 
+
+Pour se connecter a la base de donées modifier les  variables d'environnement .
+elle se trouve dans le fichier .env.exemple
